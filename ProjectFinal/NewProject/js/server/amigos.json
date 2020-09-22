@@ -1,0 +1,14 @@
+{
+  "amigos": [
+    {
+      "nome": "teste",
+      "telefone": "teste",
+      "id": 1
+    },
+    {
+      "nome": "ho",
+      "telefone": "q12314",
+      "id": 2
+    }
+  ]
+}

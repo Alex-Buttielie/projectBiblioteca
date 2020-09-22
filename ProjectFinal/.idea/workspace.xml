@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:testeFeature-1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd978b17-99cf-4ba5-81bb-a9ca78c7fae6" name="Default Changelist" comment="teste" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dotnZEy4cU0pupHG8BSFVE8xGJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prodata_avell\Documents\estagio_supervisionado\Projeto\Projeto Emprestimo De Livros\src" />
+      <recent name="C:\Users\prodata_avell\Documents\estagio_supervisionado\Projeto\Projeto Emprestimo De Livros" />
+      <recent name="C:\Users\prodata_avell\Documents\estagio_supervisionado\Projeto\Projeto Emprestimo De Livros\build\src\main_html" />
+      <recent name="C:\Users\prodata_avell\Documents\estagio_supervisionado\Projeto\Projeto Emprestimo De Livros\build\src" />
+      <recent name="C:\Users\prodata_avell\Documents\estagio_supervisionado\Projeto\Projeto Emprestimo De Livros\build\src\main_java" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd978b17-99cf-4ba5-81bb-a9ca78c7fae6" name="Default Changelist" comment="" />
+      <created>1593103440480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593103440480</updated>
+      <workItem from="1593103442772" duration="10739000" />
+      <workItem from="1593169932487" duration="30505000" />
+      <workItem from="1593430912623" duration="4862000" />
+      <workItem from="1595944993825" duration="188000" />
+      <workItem from="1595945202202" duration="639000" />
+    </task>
+    <task id="LOCAL-00001" summary="teste">
+      <created>1593185710541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593185710541</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2057" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595945131637">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2057" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1595945131637" />
+    <state x="135" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593433897298">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="135" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1593433897298" />
+    <state x="2332" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595945126535">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2332" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1595945126535" />
+    <state x="2383" y="119" key="FileChooserDialogImpl" timestamp="1595945240203">
+      <screen x="1920" y="0" width="1366" height="728" />
+    </state>
+    <state x="2383" y="119" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1366.728@1920.0.1366.728" timestamp="1595945240203" />
+    <state x="349" y="160" key="IDE.errors.dialog" timestamp="1593435534514">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="160" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1593435534514" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1593432414049">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1593432414049" />
+    <state x="402" y="144" width="708" height="530" key="recent.locations.popup" timestamp="1593176037774">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="402" y="144" width="708" height="530" key="recent.locations.popup/0.0.1536.834/1920.0.1440.870@0.0.1536.834" timestamp="1593176037774" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1593194490176">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1440.870@0.0.1536.834" timestamp="1593194490176" />
+  </component>
+</project>

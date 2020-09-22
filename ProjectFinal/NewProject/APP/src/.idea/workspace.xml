@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:testeFeature-1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:testeFeature-1" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9df47e3d-7626-4c06-b1dd-40f30529231c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/libraries/Maven__org_flywaydb_flyway_core_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../biblioteca/projetoBiblioteca/src/main/java/br/com/alex/projetoBiblioteca/app/amigo/Amigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../biblioteca/projetoBiblioteca/src/main/java/br/com/alex/projetoBiblioteca/app/amigo/AmigoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../biblioteca/projetoBiblioteca/src/main/java/br/com/alex/projetoBiblioteca/app/amigo/AmigoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../biblioteca/projetoBiblioteca/src/main/java/br/com/alex/projetoBiblioteca/app/amigo/AmigoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../biblioteca/projetoBiblioteca/src/main/java/br/com/alex/projetoBiblioteca/app/amigo/AmigoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/artifacts/app.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/artifacts/cursojavaee_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/artifacts/cursojavaee_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cursojavaee.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/amigos/Amigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/amigos/AmigoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/config/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/config/ConstraintViolationExceptionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/config/CrossOriginFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/amigos/Amigo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/amigos/AmigoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/config/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/config/CrossOriginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/WEB-INF/classes/amigos/Amigo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/WEB-INF/classes/amigos/AmigoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/WEB-INF/classes/config/ApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/WEB-INF/classes/config/CrossOriginFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/WEB-INF/lib/javaee-api-7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/WEB-INF/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/WEB-INF/lib/javax.mail-1.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/cursojavaee-1.0/WEB-INF/lib/sisu-guice-2.1.7.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="hibernate-configuration-5.2" />
+        <option value="hibernate-main-5.2" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1f8wgaEnPWgouqZvNX16oZpGVx3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9df47e3d-7626-4c06-b1dd-40f30529231c" name="Default Changelist" comment="" />
+      <created>1595613140007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595613140007</updated>
+      <workItem from="1595613145586" duration="429000" />
+      <workItem from="1595613623789" duration="22000" />
+      <workItem from="1595613684135" duration="1201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="148" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1595613155001">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="439" y="148" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1536.834/1920.0.1440.870@0.0.1536.834" timestamp="1595613155001" />
+  </component>
+</project>
