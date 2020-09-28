@@ -1,0 +1,25 @@
+table#teste{
+    font: normal 10pt Arial;
+    margin-top: 10px;
+}
+.jumbotron {
+
+    font: normal 10pt Arial;
+    width: 900px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer#rodape {
+    margin-top: 10px;
+    font: normal 10pt Arial ;
+    text-align: center;
+    clear: both;
+
+}
+footer#rodape p{
+    font: normal 10pt Arial;
+    text-align: center;
+}
